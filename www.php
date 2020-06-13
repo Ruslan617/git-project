@@ -1,17 +1,5 @@
 ?php
 
-echo "Hello Git"
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdffsdf
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdf
-sdfsdf
+echo "Hello Git";
+echo "Hello Git 2";
+echo "Hello new branch!";
